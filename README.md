@@ -7,6 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 # 💫 About Me:
+<br>
 🔭 I’m currently working on own mini project<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning Data Structures and Algorithms<br>⚡ Contact me @ bhardwajadarsh873@gmail.com
 
 ## 🌐 Socials:
