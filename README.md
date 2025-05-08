@@ -19,7 +19,7 @@
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=Adarsh9077&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh9077&theme=shades-of-purple&hide_border=false)<br/>
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh9077])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh9077)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Adarsh9077&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
